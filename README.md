@@ -1,5 +1,7 @@
-# Safety-Critical-Legged-Locomotion
+# Safety-Critical-Controls-Papers
 Following is the list of Papers on Legged Locomotion with Safety Critical Controls:
+
+## Safety Critical Controls on Legged Robots
 
 - [ ] [Multi-Layered Safety for Legged Robots via Control Barrier Functions and Model Predictive Control](https://ieeexplore.ieee.org/document/9561510)
 - [ ] [Model-Free Safety-Critical Control for Robotic Systems](https://arxiv.org/abs/2109.09047)
