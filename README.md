@@ -1,9 +1,40 @@
-# Safety-Critical-Controls-CBF
+# Theoretical/ Concept Introduing Papers on Control Barrier Functions
 
-This repository contains a list of papers and their code (if available) for safety critical controls via Optimal Controls and Reinforcement Learning.
+This repository contains a list of papers and their code (if available) for safety critical controls.
+
+## Origin of Control Barrier Functions
+
+- [ ] Barrier FunctionsControl
+- [ ] Control Barrier functions
+- [ ] 
+
+## Exponential Control Barrier Functions
+
+- [ ] Exp
+
+## Higher Order Control Barrier Functions
+
+- [ ] HOCBF
 
 
-## Safety Critical Controls on Legged Robots (Optimal Controls)
+## Energy Based Control Barrier Functions
+
+- [ ] EnCBF
+
+## Collision Cone Based Control Barrier Functions
+
+- [ ] C3BF
+
+## Robustness and Adaptability of Control Barrier Functions with unknown dynamics
+
+- [ ] Robust CBF
+
+## Learning Based Control Barrier Functions
+
+- [ ] Bayesian
+
+# Application Specific Papers
+## Legged Robots
 
 Following is the list of Papers on Legged Locomotion with Safety Critical Controls:
 
