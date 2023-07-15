@@ -4,7 +4,7 @@ This repository contains a list of papers and their code (if available) for safe
 
 ## Origin of Control Barrier Functions
 
-- [ ] Constructive safety using control barrier functions [[paper]] (https://www.sciencedirect.com/science/article/pii/S1474667016355690)
+- [ ] Constructive safety using control barrier functions [[paper]](https://www.sciencedirect.com/science/article/pii/S1474667016355690)
 - [ ] Control Barrier Function based Quadratic Programs with Application to Adaptive Cruise Control [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7040372)
 - [ ] Control Barrier Certificates for Safe Swarm Behavior [[paper]](https://repository.gatech.edu/server/api/core/bitstreams/c20b1183-d22a-45cb-9abc-d9683945cca7/content)
 - [ ] Safety Barrier Certificates for Collisions-Free Multirobot Systems [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7857061)
