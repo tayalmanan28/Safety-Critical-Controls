@@ -38,6 +38,11 @@ This repository contains a list of papers and their code (if available) for safe
 
 - [ ] Bayesian
 
+## Neural Control Barrier Functions
+
+- [ ] Learning Safe Multi-Agent Control with Decentralized Neural Barrier Certificates [[paper]](https://arxiv.org/abs/2101.05436) [[code]](https://github.com/MIT-REALM/macbf)
+- [ ] 
+
 # Application Specific Papers
 ## Legged Robots
 
