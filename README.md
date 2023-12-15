@@ -26,22 +26,27 @@ This repository contains a list of papers and their code (if available) for safe
 
 - [ ] EnCBF
 
-## Collision Cone Based Control Barrier Functions
+## Cone Based Control Barrier Functions
 
-- [ ] C3BF
+- [ ] Collision Cone Control Barrier Functions for Kinematic Obstacle Avoidance in UGVs [[paper]](https://arxiv.org/pdf/2209.11524.pdf)
+- [ ] Control Barrier Functions in Dynamic UAVs for Kinematic Obstacle Avoidance: A Collision Cone Approach [[paper]](https://arxiv.org/pdf/2303.15871.pdf)
+- [ ] Collision Cone Control Barrier Functions: Experimental Validation on UGVs for Kinematic Obstacle Avoidance [[paper]](https://arxiv.org/pdf/2310.10839.pdf)
+- [ ] Safe Legged Locomotion using Collision Cone Control Barrier Functions [[paper]](https://arxiv.org/pdf/2309.01898.pdf)
+- [ ] Polygonal Cone Control Barrier Functions (PolyC2BF) for safe navigation in cluttered environments [[paper]](https://arxiv.org/pdf/2311.08787.pdf)
 
-## Robustness and Adaptability of Control Barrier Functions with unknown dynamics
-
-- [ ] Robust CBF
-
-## Learning Based Control Barrier Functions
-
-- [ ] Bayesian
+## CBFs in Stochastic Environments
 
 ## Neural Control Barrier Functions
 
 - [ ] Learning Safe Multi-Agent Control with Decentralized Neural Barrier Certificates [[paper]](https://arxiv.org/abs/2101.05436) [[code]](https://github.com/MIT-REALM/macbf)
-- [ ] 
+
+
+## Safe Model Based RL using CBFs
+- [ ] End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks [[paper]](https://public.websites.umich.edu/~orosz/articles/AAAI_2019_Richard_Richard_Joel.pdf)
+- [ ] Model-based Reinforcement Learning with Provable Safety Guarantees via Control Barrier Functions [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561253)
+- [ ] Safe Reinforcement Learning using Robust Control Barrier Functions [[paper]](https://arxiv.org/pdf/2110.05415.pdf)
+- [ ] Safe Exploration inModel-based Reinforcement Learning using Control Barrier Functions [[paper]](https://arxiv.org/pdf/2104.08171.pdf)
+- [ ] Safe and Efficient Reinforcement Learning Using Disturbance-Observer-Based Control Barrier Functions [[paper]](https://arxiv.org/pdf/2211.17250.pdf)
 
 # Application Specific Papers
 ## Legged Robots
