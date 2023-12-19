@@ -35,10 +35,13 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Polygonal Cone Control Barrier Functions (PolyC2BF) for safe navigation in cluttered environments [[paper]](https://arxiv.org/pdf/2311.08787.pdf)
 
 ## CBFs in Stochastic Environments
+- [ ] CBF for Stochastic Systems [[paper]](https://arxiv.org/abs/2003.03498.pdf)
 
 ## Neural Control Barrier Functions
 
 - [ ] Learning Safe Multi-Agent Control with Decentralized Neural Barrier Certificates [[paper]](https://arxiv.org/abs/2101.05436) [[code]](https://github.com/MIT-REALM/macbf)
+- [ ] Safe Control Under Input Limits with Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2211.11056) [[code]](https://github.com/sliu2019/input_limit_cbf)
+- [ ] Exact Verification of ReLU Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2310.09360)
 
 
 ## Safe Model Based RL using CBFs
