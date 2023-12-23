@@ -41,19 +41,24 @@ This repository contains a list of papers and their code (if available) for safe
 
 - [ ] Learning Safe Multi-Agent Control with Decentralized Neural Barrier Certificates [[paper]](https://arxiv.org/abs/2101.05436) [[code]](https://github.com/MIT-REALM/macbf)
 - [ ] Safe Control Under Input Limits with Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2211.11056) [[code]](https://github.com/sliu2019/input_limit_cbf)
+- [ ] Safe Neural Control for Non-Affine Control Systems with Differentiable Control Barrier Functions [[paper]](https://arxiv.org/pdf/2309.04492.pdf)
 - [ ] Exact Verification of ReLU Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2310.09360)
 
 
-## Safe Model Based RL using CBFs
+# Application Specific Papers
+
+## Safe Model Based RL
 - [ ] End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks [[paper]](https://public.websites.umich.edu/~orosz/articles/AAAI_2019_Richard_Richard_Joel.pdf)
 - [ ] Model-based Reinforcement Learning with Provable Safety Guarantees via Control Barrier Functions [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561253)
 - [ ] Safe Reinforcement Learning using Robust Control Barrier Functions [[paper]](https://arxiv.org/pdf/2110.05415.pdf)
 - [ ] Safe Exploration inModel-based Reinforcement Learning using Control Barrier Functions [[paper]](https://arxiv.org/pdf/2104.08171.pdf)
 - [ ] Safe and Efficient Reinforcement Learning Using Disturbance-Observer-Based Control Barrier Functions [[paper]](https://arxiv.org/pdf/2211.17250.pdf)
 
-# Application Specific Papers
-## Legged Robots
+## Safe Imitation Learning
+- [ ] End-to-End Imitation Learning with Safety Guarantees using Control Barrier Functions [[paper]](https://arxiv.org/abs/2212.11365)
 
+
+## Legged Robots
 Following is the list of Papers on Legged Locomotion with Safety Critical Controls:
 
 - [ ] Safety-Critical Control for Dynamical Bipedal Walking with Precise Footstep Placement(ADH 2015)[[paper]](https://hybrid-robotics.berkeley.edu/publications/ADHS2015_FootstepCBF.pdf)
