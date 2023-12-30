@@ -42,8 +42,10 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Learning Safe Multi-Agent Control with Decentralized Neural Barrier Certificates [[paper]](https://arxiv.org/abs/2101.05436) [[code]](https://github.com/MIT-REALM/macbf)
 - [ ] Safety Certification for Stochastic Systems via Neural Barrier Functions [[paper]](https://arxiv.org/pdf/2206.01463.pdf) [[code]](https://github.com/DAI-Lab-HERALD/neural-barrier-functions)
 - [ ] Safe Control Under Input Limits with Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2211.11056) [[code]](https://github.com/sliu2019/input_limit_cbf)
-- [ ] Safe Neural Control for Non-Affine Control Systems with Differentiable Control Barrier Functions [[paper]](https://arxiv.org/pdf/2309.04492.pdf)
+- [ ] Learning a Better Control Barrier Function [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993334)
+- [ ] Safe Control With Learned Certificates: A Survey of Neural Lyapunov, Barrier, and Contraction Methods for Robotics and Control [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10015199)
 - [ ] Exact Verification of ReLU Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2310.09360)
+- [ ] Learning a Better Control Barrier Function Under Uncertain Dynamics [[paper]](https://arxiv.org/pdf/2310.04795.pdf)
 
 
 # Application Specific Papers
