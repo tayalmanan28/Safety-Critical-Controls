@@ -40,13 +40,15 @@ This repository contains a list of papers and their code (if available) for safe
 ## Neural Control Barrier Functions
 
 - [ ] Learning Safe Multi-Agent Control with Decentralized Neural Barrier Certificates [[paper]](https://arxiv.org/abs/2101.05436) [[code]](https://github.com/MIT-REALM/macbf)
-- [ ] SABLAS: Learning Safe Control for Black-box Dynamical Systems [[paper]](https://arxiv.org/pdf/2201.01918.pdf)
+- [ ] SABLAS: Learning Safe Control for Black-box Dynamical Systems [[paper]](https://arxiv.org/pdf/2201.01918.pdf) [[code]](https://github.com/MIT-REALM/sablas)
 - [ ] Safety Certification for Stochastic Systems via Neural Barrier Functions [[paper]](https://arxiv.org/pdf/2206.01463.pdf) [[code]](https://github.com/DAI-Lab-HERALD/neural-barrier-functions)
 - [ ] Safe Control Under Input Limits with Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2211.11056) [[code]](https://github.com/sliu2019/input_limit_cbf)
 - [ ] Learning a Better Control Barrier Function [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993334)
 - [ ] Safe Control With Learned Certificates: A Survey of Neural Lyapunov, Barrier, and Contraction Methods for Robotics and Control [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10015199)
 - [ ] Exact Verification of ReLU Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2310.09360)
 - [ ] Learning a Better Control Barrier Function Under Uncertain Dynamics [[paper]](https://arxiv.org/pdf/2310.04795.pdf)
+- [ ] How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems [[paper]](https://arxiv.org/pdf/2310.15478.pdf) [[code]](https://github.com/MIT-REALM/pncbf)
+- [ ] Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control [[paper]](https://arxiv.org/pdf/2311.13014.pdf) [[code]](https://github.com/MIT-REALM/gcbf-pytorch)
 
 
 # Application Specific Papers
