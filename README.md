@@ -45,6 +45,7 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Safe Control Under Input Limits with Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2211.11056) [[code]](https://github.com/sliu2019/input_limit_cbf)
 - [ ] Learning a Better Control Barrier Function [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993334)
 - [ ] Safe Control With Learned Certificates: A Survey of Neural Lyapunov, Barrier, and Contraction Methods for Robotics and Control [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10015199)
+- [ ] Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance [[paper]](https://arxiv.org/pdf/2307.03015.pdf)
 - [ ] Exact Verification of ReLU Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2310.09360)
 - [ ] Learning a Better Control Barrier Function Under Uncertain Dynamics [[paper]](https://arxiv.org/pdf/2310.04795.pdf)
 - [ ] How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems [[paper]](https://arxiv.org/pdf/2310.15478.pdf) [[code]](https://github.com/MIT-REALM/pncbf)
