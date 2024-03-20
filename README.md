@@ -1,4 +1,4 @@
-# Theoretical/ Concept Introduing Papers on Control Barrier Functions
+# Theoretical/ Concept Introducing Papers on Control Barrier Functions
 
 This repository contains a list of papers and their code (if available) for safety critical controls.
 
@@ -54,7 +54,7 @@ This repository contains a list of papers and their code (if available) for safe
 
 # Application Specific Papers
 
-## Safe Model Based RL
+## Safe Model-Based RL
 - [ ] End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks [[paper]](https://public.websites.umich.edu/~orosz/articles/AAAI_2019_Richard_Richard_Joel.pdf)
 - [ ] Model-based Reinforcement Learning with Provable Safety Guarantees via Control Barrier Functions [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561253)
 - [ ] Safe Reinforcement Learning using Robust Control Barrier Functions [[paper]](https://arxiv.org/pdf/2110.05415.pdf)
@@ -76,6 +76,16 @@ Following is the list of Papers on Legged Locomotion with Safety Critical Contro
 - [ ] Model-Free Safety-Critical Control for Robotic Systems(ICRA 2022) [[paper]](https://arxiv.org/abs/2109.09047)
 - [ ] Safety-Aware Preference-Based Learning for Safety-Critical Control(LDC 2022) [[paper]](https://proceedings.mlr.press/v168/cosner22a/cosner22a.pdf)
 
+## Robotic Manipulators
+Following is the list of Papers on Robotic Manipulators with Safety Critical Controls:
 
-
-
+- [ ] Reinforcement Learning-Enhanced Control Barrier Functions for Robot Manipulators (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.11391.pdf)
+- [ ] Safety Barrier Functions for Human-Robot Interaction with Industrial Manipulators (ECC 2019) [[paper]](https://ieeexplore.ieee.org/document/8796235)
+- [ ] Online Active Safety for Robotic Manipulators (IROS 2019) [[paper]](https://ieeexplore.ieee.org/document/8968231)
+- [ ] Safety-Critical Manipulation for Collision-Free Food Preparation (RA-L 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9834089)
+- [ ] Safety-Critical Kinematic Control of Robotic Systems (ConSys-L 2021) [[paper]](https://ieeexplore.ieee.org/document/9319250)
+- [ ] Energy-based Control Barrier Functions for Robotic Manipulators with Large Safety Constraints (ECC 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9838184)
+- [ ] Constrained robot control using control barrier functions (IROS 2016) [[paper]](https://ieeexplore.ieee.org/document/7759067)
+- [ ] Consensus in Operational Space for Robotic Manipulators with Task and Input Constraints (ICRA 2022) [[paper]](https://ieeexplore.ieee.org/document/9811846)
+- [ ] Real-Time Safety and Control of Robotic Manipulators with Torque Saturation in Operational Space (IROS 2021) [[paper]](https://ieeexplore.ieee.org/document/9636794)
+- [ ] Safety-Critical Optimal Control for Robotic Manipulators in A Cluttered Environment (Arxiv 2022) [[paper]](https://arxiv.org/abs/2211.04944)
