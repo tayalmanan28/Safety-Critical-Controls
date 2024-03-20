@@ -92,3 +92,4 @@ Following is the list of Papers on Robotic Manipulators with Safety Critical Con
 - [ ] Safety-Critical Control of Euler-Lagrange Systems Subject to Position Constraints (CCC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10240875)
 - [ ] Safe Navigation and Obstacle Avoidance Using Differentiable Optimization Based Control Barrier Functions (RA-L 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10184036)
 - [ ] Control Barrier Function-Based Force Constrained Safety Compliance Control for Manipulator (ICAC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10275266)
+- [ ] Adaptive Safety-Critical Control With Uncertainty Estimation for Human-Robot Collaboration (TASE 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10281398)
