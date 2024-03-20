@@ -89,3 +89,6 @@ Following is the list of Papers on Robotic Manipulators with Safety Critical Con
 - [ ] Consensus in Operational Space for Robotic Manipulators with Task and Input Constraints (ICRA 2022) [[paper]](https://ieeexplore.ieee.org/document/9811846)
 - [ ] Real-Time Safety and Control of Robotic Manipulators with Torque Saturation in Operational Space (IROS 2021) [[paper]](https://ieeexplore.ieee.org/document/9636794)
 - [ ] Safety-Critical Optimal Control for Robotic Manipulators in A Cluttered Environment (Arxiv 2022) [[paper]](https://arxiv.org/abs/2211.04944)
+- [ ] Safety-Critical Control of Euler-Lagrange Systems Subject to Position Constraints (CCC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10240875)
+- [ ] Safe Navigation and Obstacle Avoidance Using Differentiable Optimization Based Control Barrier Functions (RA-L 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10184036)
+- [ ] Control Barrier Function-Based Force Constrained Safety Compliance Control for Manipulator (ICAC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10275266)
