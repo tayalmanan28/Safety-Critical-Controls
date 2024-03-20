@@ -1,6 +1,6 @@
 # Theoretical/ Concept Introducing Papers on Control Barrier Functions
 
-This repository contains a list of papers and their code (if available) for safety critical controls.
+This repository contains a list of papers and their code (if available) for safety-critical controls.
 
 ## Origin of Control Barrier Functions
 
@@ -9,7 +9,7 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Robustness of Control Barrier Functions for Safety Critical Control [[paper]](https://arxiv.org/pdf/1612.01554.pdf)
 - [ ] Control Barrier Certificates for Safe Swarm Behavior [[paper]](https://repository.gatech.edu/server/api/core/bitstreams/c20b1183-d22a-45cb-9abc-d9683945cca7/content)
 - [ ] Safety Barrier Certificates for Collisions-Free Multirobot Systems [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7857061)
-- [ ] Control Barrier Function Based Quadratic Programs for Safety Critical Systems [[paper]](http://ames.caltech.edu/ames2017cbf.pdf)
+- [ ] Control Barrier Function Based Quadratic Programs for Safety-Critical Systems [[paper]](http://ames.caltech.edu/ames2017cbf.pdf)
 - [ ] Control Barrier Functions: Theory and Applications [[paper]](https://coogan.ece.gatech.edu/papers/pdf/amesecc19.pdf)
 
 ## Exponential Control Barrier Functions
@@ -79,16 +79,16 @@ Following is the list of Papers on Legged Locomotion with Safety Critical Contro
 ## Robotic Manipulators
 Following is the list of Papers on Robotic Manipulators with Safety Critical Controls:
 
-- [ ] Reinforcement Learning-Enhanced Control Barrier Functions for Robot Manipulators (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.11391.pdf)
+- [ ] Constrained robot control using control barrier functions (IROS 2016) [[paper]](https://ieeexplore.ieee.org/document/7759067)
 - [ ] Safety Barrier Functions for Human-Robot Interaction with Industrial Manipulators (ECC 2019) [[paper]](https://ieeexplore.ieee.org/document/8796235)
 - [ ] Online Active Safety for Robotic Manipulators (IROS 2019) [[paper]](https://ieeexplore.ieee.org/document/8968231)
-- [ ] Safety-Critical Manipulation for Collision-Free Food Preparation (RA-L 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9834089)
 - [ ] Safety-Critical Kinematic Control of Robotic Systems (ConSys-L 2021) [[paper]](https://ieeexplore.ieee.org/document/9319250)
-- [ ] Energy-based Control Barrier Functions for Robotic Manipulators with Large Safety Constraints (ECC 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9838184)
-- [ ] Constrained robot control using control barrier functions (IROS 2016) [[paper]](https://ieeexplore.ieee.org/document/7759067)
-- [ ] Consensus in Operational Space for Robotic Manipulators with Task and Input Constraints (ICRA 2022) [[paper]](https://ieeexplore.ieee.org/document/9811846)
 - [ ] Real-Time Safety and Control of Robotic Manipulators with Torque Saturation in Operational Space (IROS 2021) [[paper]](https://ieeexplore.ieee.org/document/9636794)
 - [ ] Safety-Critical Optimal Control for Robotic Manipulators in A Cluttered Environment (Arxiv 2022) [[paper]](https://arxiv.org/abs/2211.04944)
+- [ ] Reinforcement Learning-Enhanced Control Barrier Functions for Robot Manipulators (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2211.11391.pdf)
+- [ ] Safety-Critical Manipulation for Collision-Free Food Preparation (RA-L 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9834089)
+- [ ] Energy-based Control Barrier Functions for Robotic Manipulators with Large Safety Constraints (ECC 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9838184)
+- [ ] Consensus in Operational Space for Robotic Manipulators with Task and Input Constraints (ICRA 2022) [[paper]](https://ieeexplore.ieee.org/document/9811846)
 - [ ] Safety-Critical Control of Euler-Lagrange Systems Subject to Position Constraints (CCC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10240875)
 - [ ] Safe Navigation and Obstacle Avoidance Using Differentiable Optimization Based Control Barrier Functions (RA-L 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10184036)
 - [ ] Control Barrier Function-Based Force Constrained Safety Compliance Control for Manipulator (ICAC 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10275266)
