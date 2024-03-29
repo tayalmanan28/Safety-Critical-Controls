@@ -35,7 +35,10 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Polygonal Cone Control Barrier Functions (PolyC2BF) for safe navigation in cluttered environments [[paper]](https://arxiv.org/pdf/2311.08787.pdf)
 
 ## CBFs in Stochastic Environments
-- [ ] CBF for Stochastic Systems [[paper]](https://arxiv.org/abs/2003.03498.pdf)
+- [ ] Input-to-state safety with control barrier functions [[paper]](https://ieeexplore.ieee.org/ielaam/7782633/8410052/8405547-aam.pdf)
+- [ ] Control barrier functions for Stochastic Systems [[paper]](https://arxiv.org/abs/2003.03498.pdf)
+- [ ] Almost-Sure Safety Guarantees of Stochastic Zero-Control Barrier Functions Do Not Hold [[paper]](https://arxiv.org/pdf/2312.02430v1.pdf)
+- [ ] Bounding Stochastic Safety: Leveraging Freedman’s Inequality with Discrete-Time Control Barrier Functions [[paper]](https://arxiv.org/pdf/2403.05745.pdf)
 
 ## Neural Control Barrier Functions
 
@@ -46,11 +49,12 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Learning a Better Control Barrier Function [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993334)
 - [ ] Safe Control With Learned Certificates: A Survey of Neural Lyapunov, Barrier, and Contraction Methods for Robotics and Control [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10015199)
 - [ ] Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance [[paper]](https://arxiv.org/pdf/2307.03015.pdf)
+- [ ] LatentCBF: A Control Barrier Function in Latent Space for Safe Control [[paper]](https://openreview.net/pdf?id=30L0rr9W8A)
 - [ ] Exact Verification of ReLU Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2310.09360)
 - [ ] Learning a Better Control Barrier Function Under Uncertain Dynamics [[paper]](https://arxiv.org/pdf/2310.04795.pdf)
 - [ ] How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems [[paper]](https://arxiv.org/pdf/2310.15478.pdf) [[code]](https://github.com/MIT-REALM/pncbf)
 - [ ] Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control [[paper]](https://arxiv.org/pdf/2311.13014.pdf) [[code]](https://github.com/MIT-REALM/gcbf-pytorch)
-
+- [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment [[paper]](https://arxiv.org/pdf/2403.19332.pdf)
 
 # Application Specific Papers
 
