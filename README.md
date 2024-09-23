@@ -55,8 +55,12 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems [[paper]](https://arxiv.org/pdf/2310.15478.pdf) [[code]](https://github.com/MIT-REALM/pncbf)
 - [ ] Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control [[paper]](https://arxiv.org/pdf/2311.13014.pdf) [[code]](https://github.com/MIT-REALM/gcbf-pytorch)
 - [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment [[paper]](https://arxiv.org/pdf/2403.19332.pdf)
+- [ ] Learning Hybrid Control Barrier Functions from Data [[paper]](https://proceedings.mlr.press/v155/lindemann21a/lindemann21a.pdf)
 
 # Application Specific Papers
+
+## CBF on Hybrid Systems
+- [ ] Safe Control Synthesis for Hybrid Systems through Local Control Barrier Functions [[paper]](https://arxiv.org/pdf/2311.17201)
 
 ## Safe Model-Based RL
 - [ ] End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks [[paper]](https://public.websites.umich.edu/~orosz/articles/AAAI_2019_Richard_Richard_Joel.pdf)
