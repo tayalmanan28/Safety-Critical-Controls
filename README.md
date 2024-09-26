@@ -35,31 +35,39 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Bounding Stochastic Safety: Leveraging Freedman’s Inequality with Discrete-Time Control Barrier Functions [[paper]](https://arxiv.org/pdf/2403.05745.pdf)
 - [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment (CDC'24) [[paper]](https://arxiv.org/pdf/2403.19332.pdf)
 
-## Neural Control Barrier Functions (From State Input)
-- [ ] Learning Safe Multi-Agent Control with Decentralized Neural Barrier Certificates [[paper]](https://arxiv.org/abs/2101.05436) [[code]](https://github.com/MIT-REALM/macbf)
-- [ ] SABLAS: Learning Safe Control for Black-box Dynamical Systems [[paper]](https://arxiv.org/pdf/2201.01918.pdf) [[code]](https://github.com/MIT-REALM/sablas)
-- [ ] Safety Certification for Stochastic Systems via Neural Barrier Functions [[paper]](https://arxiv.org/pdf/2206.01463.pdf) [[code]](https://github.com/DAI-Lab-HERALD/neural-barrier-functions)
-- [ ] Safe Control Under Input Limits with Neural Control Barrier Functions [[paper]](https://arxiv.org/abs/2211.11056) [[code]](https://github.com/sliu2019/input_limit_cbf)
-- [ ] Learning a Better Control Barrier Function [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993334)
-- [ ] Safe Control With Learned Certificates: A Survey of Neural Lyapunov, Barrier, and Contraction Methods for Robotics and Control [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10015199)
-- [ ] Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance [[paper]](https://arxiv.org/pdf/2307.03015.pdf)
-- [ ] Exact Verification of ReLU Neural Control Barrier Functions (NeurIPS'23) [[paper]](https://arxiv.org/abs/2310.09360)
-- [ ] Learning a Better Control Barrier Function Under Uncertain Dynamics [[paper]](https://arxiv.org/pdf/2310.04795.pdf)
-- [ ] How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems (ICRA'24) [[paper]](https://arxiv.org/pdf/2310.15478.pdf) [[code]](https://github.com/MIT-REALM/pncbf)
-- [ ] Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control [[paper]](https://arxiv.org/pdf/2311.13014.pdf) [[code]](https://github.com/MIT-REALM/gcbf-pytorch)
-- [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment (CDC'24) [[paper]](https://arxiv.org/pdf/2403.19332.pdf)
-
-## Neural Control Barrier Functions (From Visuomotor Inputs)
-- [ ] End-to-End Imitation Learning with Safety Guarantees using Control Barrier Functions (CDC'22) [[paper]](https://arxiv.org/abs/2212.11365)
-- [ ] Learning Robust Output Control Barrier Functions from Safe Expert Demonstrations (OJCSYS'24) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10491341)
-- [ ] Semi-Supervised Safe Visuomotor Policy Synthesis using Barrier Certificates [[paper]](https://arxiv.org/pdf/2409.12616)
-
 ## Safe Model-Based RL
 - [ ] End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks [[paper]](https://public.websites.umich.edu/~orosz/articles/AAAI_2019_Richard_Richard_Joel.pdf)
 - [ ] Model-based Reinforcement Learning with Provable Safety Guarantees via Control Barrier Functions [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561253)
 - [ ] Safe Reinforcement Learning using Robust Control Barrier Functions [[paper]](https://arxiv.org/pdf/2110.05415.pdf)
 - [ ] Safe Exploration inModel-based Reinforcement Learning using Control Barrier Functions [[paper]](https://arxiv.org/pdf/2104.08171.pdf)
 - [ ] Safe and Efficient Reinforcement Learning Using Disturbance-Observer-Based Control Barrier Functions [[paper]](https://arxiv.org/pdf/2211.17250.pdf)
+
+# Neural Control Barrier Functions 
+## From State Inputs
+
+### Survey Papers
+- [ ] Safe Control With Learned Certificates: A Survey of Neural Lyapunov, Barrier, and Contraction Methods for Robotics and Control [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10015199)
+
+### Conference/Journal Papers
+- [ ] Learning Safe Multi-Agent Control with Decentralized Neural Barrier Certificates (ICLR'21) [[paper]](https://arxiv.org/abs/2101.05436) [[code]](https://github.com/MIT-REALM/macbf)
+- [ ] Learning Control Barrier Functions with High Relative Degree for Safety-Critical Control (ECC'21) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9655206)
+- [ ] SABLAS: Learning Safe Control for Black-box Dynamical Systems (RAL'22) [[paper]](https://arxiv.org/pdf/2201.01918.pdf) [[code]](https://github.com/MIT-REALM/sablas)
+- [ ] Safe Control Under Input Limits with Neural Control Barrier Functions (CoRL'22) [[paper]](https://arxiv.org/abs/2211.11056) [[code]](https://github.com/sliu2019/input_limit_cbf)
+- [ ] Learning a Better Control Barrier Function (CDC'22) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993334)
+- [ ] Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance (IROS'23) [[paper]](https://arxiv.org/pdf/2307.03015.pdf)
+- [ ] Exact Verification of ReLU Neural Control Barrier Functions (NeurIPS'23) [[paper]](https://arxiv.org/abs/2310.09360)
+- [ ] Safety Certification for Stochastic Systems via Neural Barrier Functions (L-CSS'23) [[paper]](https://arxiv.org/pdf/2206.01463.pdf) [[code]](https://github.com/DAI-Lab-HERALD/neural-barrier-functions)
+- [ ] Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control (CoRL'23) [[paper]](https://arxiv.org/pdf/2311.13014.pdf) [[code]](https://github.com/MIT-REALM/gcbf-pytorch)
+- [ ] How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems (ICRA'24) [[paper]](https://arxiv.org/pdf/2310.15478.pdf) [[code]](https://github.com/MIT-REALM/pncbf)
+- [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment (CDC'24) [[paper]](https://arxiv.org/pdf/2403.19332.pdf)
+
+## From Visuomotor Inputs
+
+### Conference/Journal Papers
+- [ ] End-to-End Imitation Learning with Safety Guarantees using Control Barrier Functions (CDC'22) [[paper]](https://arxiv.org/abs/2212.11365)
+- [ ] Learning Robust Output Control Barrier Functions from Safe Expert Demonstrations (OJCSYS'24) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10491341)
+- [ ] Semi-Supervised Safe Visuomotor Policy Synthesis using Barrier Certificates [[paper]](https://arxiv.org/pdf/2409.12616)
+
 
 # Application Specific Papers
 
@@ -83,7 +91,7 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Constrained robot control using control barrier functions (IROS'16) [[paper]](https://ieeexplore.ieee.org/document/7759067)
 - [ ] Safety Barrier Functions for Human-Robot Interaction with Industrial Manipulators (ECC'19) [[paper]](https://ieeexplore.ieee.org/document/8796235)
 - [ ] Online Active Safety for Robotic Manipulators (IROS'19) [[paper]](https://ieeexplore.ieee.org/document/8968231)
-- [ ] Safety-Critical Kinematic Control of Robotic Systems (L-SS'21) [[paper]](https://ieeexplore.ieee.org/document/9319250)
+- [ ] Safety-Critical Kinematic Control of Robotic Systems (L-CSS'21) [[paper]](https://ieeexplore.ieee.org/document/9319250)
 - [ ] Real-Time Safety and Control of Robotic Manipulators with Torque Saturation in Operational Space (IROS'21) [[paper]](https://ieeexplore.ieee.org/document/9636794)
 - [ ] Safety-Critical Optimal Control for Robotic Manipulators in A Cluttered Environment [[paper]](https://arxiv.org/abs/2211.04944)
 - [ ] Reinforcement Learning-Enhanced Control Barrier Functions for Robot Manipulators [[paper]](https://arxiv.org/pdf/2211.11391.pdf)
