@@ -77,6 +77,10 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Hybrid Control Barrier Functions for Continuous-Time Systems (TAC'24) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10461043)
 - [ ] Learning Local Control Barrier Functions for Safety Control of Hybrid Systems [[paper]](https://arxiv.org/pdf/2401.14907)
 
+## HJ Reachability on Hybrid Systems
+- [ ] Computation of Regions of Attraction for Hybrid Limit Cycles Using Reachability: An Application to Walking Robots (CDC'22) [[paper]](https://arxiv.org/pdf/2201.08538)
+- [ ] Gait Switching and Enhanced Stabilization of Walking Robots with Deep Learning-based Reachability: A Case Study on Two-link Walker (CDC'24) [[paper]](https://arxiv.org/pdf/2409.16301)
+
 ## Legged Robots
 - [ ] Safety-Critical Control for Dynamical Bipedal Walking with Precise Footstep Placement(ADHS'15) [[paper]](https://hybrid-robotics.berkeley.edu/publications/ADHS2015_FootstepCBF.pdf)
 - [ ] Discrete Control Barrier Functions for Safety-Critical Control of Discrete Systems with Application to Bipedal Robot Navigation(RSS'17) [[paper]](https://hybrid-robotics.berkeley.edu/publications/RSS2017_Discrete_CBF.pdf)
