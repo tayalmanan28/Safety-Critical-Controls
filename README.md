@@ -59,7 +59,7 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Safety Certification for Stochastic Systems via Neural Barrier Functions (L-CSS'23) [[paper]](https://arxiv.org/pdf/2206.01463.pdf) [[code]](https://github.com/DAI-Lab-HERALD/neural-barrier-functions)
 - [ ] Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control (CoRL'23) [[paper]](https://arxiv.org/pdf/2311.13014.pdf) [[code]](https://github.com/MIT-REALM/gcbf-pytorch)
 - [ ] How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems (ICRA'24) [[paper]](https://arxiv.org/pdf/2310.15478.pdf) [[code]](https://github.com/MIT-REALM/pncbf)
-- [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment (CDC'24) [[paper]](https://arxiv.org/pdf/2403.19332.pdf)
+- [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment (CDC'24) [[paper]](https://arxiv.org/pdf/2403.19332.pdf) [[code]](https://github.com/tayalmanan28/Stochastic-NCBF)
 
 ## From Visuomotor Inputs
 
